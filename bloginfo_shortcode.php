@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: bloginfo shortcode
+Plugin URI: https://github.com/djyugg/wordpress-bloginfo-shortcode
 Description: Use a template tag "bloginfo" as a shortcode
 Version: 0.0.1
 Author: djyugg
