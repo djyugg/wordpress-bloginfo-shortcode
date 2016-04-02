@@ -11,7 +11,7 @@ License: MIT
 
 function getBloginfoTemplateUrl()
 {
-    return bloginfo('template_url');
+    return get_bloginfo('template_url');
 }
 
 add_shortcode('bloginfo_template_url', 'getBloginfoTemplateUrl');
